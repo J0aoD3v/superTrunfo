@@ -133,3 +133,10 @@ form {
 .carta-status p {
   margin-bottom: 2rem;
 }
+#vs {
+  width: 60px;
+  height: 150px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
