@@ -108,7 +108,7 @@ form {
 
 .wrapper {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   width: 100%;
 }
 
@@ -125,7 +125,7 @@ form {
 #cartas {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .carta-status p {
